@@ -1,0 +1,8 @@
+{
+  "name": "National Education Portal - Elite GovTech",
+  "description": "A world-class government digital infrastructure portal for education services, embodying trust, authority, and public usability.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
